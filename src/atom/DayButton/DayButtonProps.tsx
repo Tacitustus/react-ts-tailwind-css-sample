@@ -1,1 +1,1 @@
-export type DayButtonProps = { day: string };
+export type DayButtonProps = { day: string; isShowed: boolean };
